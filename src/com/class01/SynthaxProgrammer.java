@@ -1,0 +1,11 @@
+package com.class01;
+
+public class SynthaxProgrammer {
+
+	public static void main(String[] args) {
+		System.out.print("I am Java Programmer.");
+		System.out.println(" I study at Syntax.");
+		System.out.println("I love Java!");
+		System.out.print("!!!");
+	}
+}
