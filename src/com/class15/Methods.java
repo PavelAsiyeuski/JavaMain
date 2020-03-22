@@ -18,7 +18,7 @@ public class Methods {
 
 	void isItRaining(boolean isRain) {
 		if (isRain) {
-			System.out.println("Take umbrella NIGGA");
+			System.out.println("Take umbrella");
 		}else {
 			System.out.println("It is not raining. Go for a walk");
 		}
