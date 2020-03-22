@@ -3,8 +3,8 @@ package com.class13;
 import java.util.Arrays;
 
 public class Q7 {
-	public static void main(String[] argg) {​
-				int[] numbers = {32, 61, 16, 89, 74};​
+public static void main (String[] args) {​
+int[] numbers = {32, 61, 16, 89, 74};​
 				// 1st way
 				Arrays.sort(numbers);
 				System.out.println("Smallest " + numbers[0]);

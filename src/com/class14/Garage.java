@@ -18,5 +18,9 @@ car2.drive();
 car2.stop();
 car2.makeNoise();
 car2.accelerate();
+
+Car2 anotherCar= new Car2();
+anotherCar.make="Toyota";
+
 }
 }

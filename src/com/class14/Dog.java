@@ -6,7 +6,7 @@ String color;
 String name;
 int age;
 void eat() {
-	System.out.println(name+" vstavay zaebal");
+	System.out.println(name+" can eat");
 }
 void bark() {
 	System.out.println(name+" can bark");
