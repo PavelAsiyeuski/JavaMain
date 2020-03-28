@@ -14,4 +14,13 @@ int num=newObject.largest(12,13);
 	}
 	return largest;
 }
+	boolean isOdd(int a) {
+		boolean isOdd;
+		if (a%2==0) {
+			isOdd=false;
+		}else {
+			isOdd=true;
+		}
+		return isOdd;
+	} 
 }
