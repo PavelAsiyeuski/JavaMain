@@ -39,7 +39,7 @@ public static void main(String[] args) {
 	
 	Iterator <Integer> val=shopping.values().iterator();
 	while (val.hasNext()) {
-		System.out.print(val.next());
+		System.out.println(val.next());
 	}
 }
 }
